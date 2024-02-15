@@ -2,8 +2,6 @@
 
 **Project: Hosting a Static Website on AWS**
 
-This project focuses on deploying a static HTML web application on Amazon Web Services (AWS) infrastructure. Below is a comprehensive guide on the setup and deployment process, along with the resources and configurations utilized.
-
 ### Overview
 
 The project aims to host a static HTML web application on AWS infrastructure, ensuring reliability, scalability, and security. Key components utilized include Amazon EC2 instances, Virtual Private Cloud (VPC), Internet Gateway, Security Groups, NAT Gateway, Application Load Balancer, Auto Scaling Group, GitHub for version control, Certificate Manager for secure communications, Simple Notification Service (SNS) for alerts, and Route 53 for DNS management.
